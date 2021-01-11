@@ -13,12 +13,16 @@ const links = [
         text: "Home"
     },
     {
-        link: "/faq",
-        text: "FAQ"
+        link: "https://github.com/JasonWet",
+        text: "GitHub"
     },
     {
-        link: "/contact",
-        text: "Contact"
+        link: "https://www.linkedin.com/in/jason-dry-4380a01a2/",
+        text: "LinkedIn"
+    },
+    {
+        link: "https://discord.gg/ndSEuKR",
+        text: "Discord"
     }
 ]
 

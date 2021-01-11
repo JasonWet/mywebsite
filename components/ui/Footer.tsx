@@ -6,9 +6,9 @@ import Link from "next/link";
 
 function Footer() {
     return <Wrapper>
-        <Text>next-js-template</Text>
+        <Text>mywebsite</Text>
         <LinkWrapper>
-            <Link href={"https://prosavage.net"}>By ProSavage</Link>
+            <Link href={"https://github.com/JasonWet/mywebsite"}>By JasonWet</Link>
         </LinkWrapper>
     </Wrapper>
 }
