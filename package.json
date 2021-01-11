@@ -1,7 +1,7 @@
 {
-  "name": "coming-soon",
-  "version": "0.1.0",
-  "private": true,
+  "name": "mywebsite",
+  "version": "1.0.0",
+  "private": false,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -10,9 +10,9 @@
   },
   "dependencies": {
     "babel-plugin-styled-components": "^1.11.1",
-    "next": "9.5.3",
-    "react": "16.13.1",
-    "react-dom": "16.13.1",
+    "next": "^9.5.5",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
     "react-feather": "^2.0.8",
     "recoil": "^0.1.2",
     "styled-components": "^5.2.1"
