@@ -6,7 +6,7 @@ function Header(props) {
         <TextWrapper>
             <HeaderText>
                 Hello, I am <LessStrong>Jason Dry</LessStrong>,
-                <br/> <CrossThrough><LessStrong>a.k.a JasonWet</LessStrong>,</CrossThrough>
+                <br/> <CrossThrough><LessStrong>a.k.a JasonWet</LessStrong></CrossThrough>
             </HeaderText>
         </TextWrapper>
     </HeaderWrapper>
