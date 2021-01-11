@@ -5,8 +5,8 @@ function Header(props) {
     return <HeaderWrapper>
         <TextWrapper>
             <HeaderText>
-                Hello, I am <CrossThrough><LessStrong>JasonWet</LessStrong>,</CrossThrough>
-                <br/> <LessStrong>Jason Dry</LessStrong>
+                Hello, I am <LessStrong>Jason Dry</LessStrong>,
+                <br/> <CrossThrough><LessStrong>a.k.a JasonWet</LessStrong>,</CrossThrough>
             </HeaderText>
         </TextWrapper>
     </HeaderWrapper>
