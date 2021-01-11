@@ -23,6 +23,10 @@ const links = [
     {
         link: "https://discord.gg/ndSEuKR",
         text: "Discord"
+    },
+    {
+        link: "/url",
+        text: "URL Shortener"
     }
 ]
 
